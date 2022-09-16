@@ -1,0 +1,68 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Introducción y objetivos}{6}{chapter*.3}%
+\contentsline {section}{\numberline {1.1}Introducción}{6}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Objetivos}{6}{section.1.2}%
+\contentsline {chapter}{Sistemas de Información Geográfica}{8}{chapter*.6}%
+\contentsline {section}{\numberline {2.1}Información Geográfica}{8}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Propiedades geométricas}{9}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Propiedades descriptivas}{11}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Componentes}{11}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Funciones}{14}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Datos espaciales}{15}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Representación digital}{15}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Gestión en los GIS}{17}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Fuentes}{19}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Formatos}{21}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2.5}Arquitectura}{24}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Herramientas}{25}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Aplicaciones}{26}{section.2.7}%
+\contentsline {chapter}{Sistema de Referencia de Coordenadas}{27}{chapter*.14}%
+\contentsline {section}{\numberline {3.1}Sistema de coordenadas geográficas}{27}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Sistema de coordenadas proyectadas}{29}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Proyección cilíndrica}{30}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Proyección cónica}{30}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Proyección acimutal}{31}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Datums Geodésicos}{34}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Elipsoide}{34}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Geoide}{35}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Punto fundamental}{36}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Ejemplos}{37}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Identificador de Referencia Espacial}{37}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Transformación y conversión de coordenadas}{38}{section.3.5}%
+\contentsline {chapter}{Análisis espacial}{39}{chapter*.24}%
+\contentsline {section}{\numberline {4.1}Estadística espacial}{39}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Análisis de patrones de puntos}{40}{subsection.4.1.1}%
+\contentsline {subsubsection}{Tipos de patrones}{40}{section*.25}%
+\contentsline {subsubsection}{Medidas para determinar la distribución de los puntos}{41}{section*.27}%
+\contentsline {subsubsection}{Medidas para determinar la variación en el espacio}{45}{section*.30}%
+\contentsline {subsection}{\numberline {4.1.2}Geoestadística}{45}{subsection.4.1.2}%
+\contentsline {subsubsection}{Interpolación}{46}{section*.31}%
+\contentsline {section}{\numberline {4.2}Otras técnicas de análisis espacial vectorial}{50}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Zonas buffer o de influencia}{50}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Superposición espacial}{51}{subsection.4.2.2}%
+\contentsline {chapter}{Inteligencia Artificial Geoespacial}{54}{chapter*.39}%
+\contentsline {section}{\numberline {5.1}Inteligencia Artificial}{55}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Aprendizaje Automático}{55}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Aprendizaje Profundo}{56}{subsection.5.1.2}%
+\contentsline {subsubsection}{Perceptrón}{56}{section*.40}%
+\contentsline {subsubsection}{Red Neuronal Artificial}{57}{section*.42}%
+\contentsline {subsubsection}{Red Neuronal Convolucional}{58}{section*.45}%
+\contentsline {section}{\numberline {5.2}Inteligencia Artificial con datos espaciales}{61}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Modelos de aprendizaje automático}{61}{subsection.5.2.1}%
+\contentsline {subsubsection}{Clustering con k-means}{61}{section*.48}%
+\contentsline {subsubsection}{Clasificación con máquinas de vector de soporte}{63}{section*.52}%
+\contentsline {subsection}{\numberline {5.2.2}Modelos de aprendizaje profundo}{66}{subsection.5.2.2}%
+\contentsline {subsubsection}{Clasificación de la cobertura terrestre en imágenes de alta resolución}{66}{section*.56}%
+\contentsline {subsubsection}{Detección de personas en imágenes de drones}{69}{section*.60}%
+\contentsline {chapter}{Casos prácticos}{73}{chapter*.65}%
+\contentsline {section}{\numberline {6.1}Centros de Atención Primaria por Municipios}{73}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Captura de información geográfica sobre Municipios}{73}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Añadir capas de Centros de Atención Primaria}{77}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Resultado final}{79}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}Río Ebro}{80}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Captura y procesado de información sobre ríos}{80}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Descarga de imágenes aéreas}{82}{subsection.6.2.2}%
+\contentsline {chapter}{Conclusiones y líneas futuras}{85}{chapter*.74}%
+\contentsline {section}{\numberline {7.1}Conclusiones}{85}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Líneas futuras}{86}{section.7.2}%
+\contentsline {chapter}{Bibliografía}{87}{section.7.2}%
