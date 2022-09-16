@@ -128,10 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-/TFM
-# /TFM/build/*
-# !/TFM/build/informe.pdf
-/Investigacion/Memoria/*
-/Investigacion/Code/Pruebas/Sentinel/RSAT/cache/*
-!/Investigacion/Memoria/informe.pdf
-!/Investigacion/Memoria/Latex
+/Doc
+/GeoAI_GIS/Memoria/*
+/GeoAI_GIS/Code/Pruebas/Sentinel/RSAT/cache/*
+!/GeoAI_GIS/Memoria/informe.pdf
+!/GeoAI_GIS/Memoria/Latex
